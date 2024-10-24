@@ -5,8 +5,6 @@ import com.sunxiaodong.weblog.common.utils.Response;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023-09-15 14:03
  * @description: TODO
  **/
 public interface AdminUserService {

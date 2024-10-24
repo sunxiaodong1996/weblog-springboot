@@ -19,8 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023-09-15 14:01
  * @description: 分类
  **/
 @RestController

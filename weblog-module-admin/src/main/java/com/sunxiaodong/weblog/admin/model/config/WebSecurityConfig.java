@@ -16,8 +16,6 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023-08-23 15:48
  * @description: Spring Security 配置类
  **/
 @Configuration

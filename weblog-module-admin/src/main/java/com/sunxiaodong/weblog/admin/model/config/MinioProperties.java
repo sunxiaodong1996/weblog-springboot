@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023-05-11 8:49
  * @description: TODO
  **/
 @ConfigurationProperties(prefix = "minio")

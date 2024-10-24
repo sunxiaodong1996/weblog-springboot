@@ -7,8 +7,6 @@ import org.mapstruct.factory.Mappers;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023/10/8 14:57
  * @description: 文章详情转换
  **/
 @Mapper

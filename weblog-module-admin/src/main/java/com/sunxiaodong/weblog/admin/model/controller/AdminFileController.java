@@ -15,8 +15,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023-09-15 14:01
  * @description: 文件模块
  **/
 @RestController
