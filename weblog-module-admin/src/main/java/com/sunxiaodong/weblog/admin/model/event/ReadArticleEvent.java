@@ -5,8 +5,6 @@ import org.springframework.context.ApplicationEvent;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023/11/9 10:05
  * @description: 文章被阅读事件
  **/
 

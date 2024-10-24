@@ -9,8 +9,6 @@ import java.util.concurrent.Executor;
 
 /**
  * @author: sunxiaodong
- * @url: www.sunxiaodong.com
- * @date: 2023/11/9 10:47
  * @description: 线程池配置
  **/
 @Configuration
