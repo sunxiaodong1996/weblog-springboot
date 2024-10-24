@@ -11,12 +11,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.quanxiaoha</groupId>
+    <groupId>com.sunxiaodong</groupId>
     <artifactId>weblog-springboot</artifactId>
     <version>${revision}</version>
     <name>weblog-springboot</name>
     <!-- 项目描述 -->
-    <description>前后端分离博客 Weblog By 犬小哈</description>
+    <description>前后端分离博客 Weblog By sunxiaodong</description>
 
     <!-- 多模块项目父工程打包模式必须指定为 pom -->
     <packaging>pom</packaging>
@@ -62,19 +62,19 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.quanxiaoha</groupId>
+                <groupId>com.sunxiaodong</groupId>
                 <artifactId>weblog-module-admin</artifactId>
                 <version>${revision}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.quanxiaoha</groupId>
+                <groupId>com.sunxiaodong</groupId>
                 <artifactId>weblog-module-common</artifactId>
                 <version>${revision}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.quanxiaoha</groupId>
+                <groupId>com.sunxiaodong</groupId>
                 <artifactId>weblog-module-jwt</artifactId>
                 <version>${revision}</version>
             </dependency>
