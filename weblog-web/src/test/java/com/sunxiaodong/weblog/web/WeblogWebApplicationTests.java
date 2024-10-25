@@ -1,7 +1,7 @@
 package com.sunxiaodong.weblog.web;
 
 
-import com.sunxiaodong.weblog.admin.model.config.MinioProperties;
+import com.sunxiaodong.weblog.admin.config.MinioProperties;
 import com.sunxiaodong.weblog.common.domain.dos.UserDO;
 import com.sunxiaodong.weblog.common.domain.mapper.UserMapper;
 import io.minio.MinioClient;
