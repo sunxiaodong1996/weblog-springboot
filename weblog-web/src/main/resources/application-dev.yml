@@ -21,7 +21,7 @@ spring:
 # minio (上传图片需要，需配置成自己的地址)
 #=================================================================
 minio:
-  endpoint: http://127.0.0.1:9000
+  endpoint: http://39.105.25.218:9000
   accessKey: sunxiaodong
   secretKey: sunxiaodong
   bucketName: weblog
